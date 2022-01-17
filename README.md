@@ -1,2 +1,4 @@
-# NoogletMan2.0
+# Educational Java Game
+
+This hang-man style game will teach you the basics of Object Oriented Programming and the important key words.
  
